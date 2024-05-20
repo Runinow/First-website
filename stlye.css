@@ -1,0 +1,151 @@
+
+
+#Logo{
+    color: #0a509e; margin-right: 400px; margin-left: 285px; font-size: 30px;
+}
+#number5{
+    color: #a4237d;
+}
+#About{ margin-right: 50px;
+font-size: medium; text-decoration: none; color: black;}
+#Challengesomeoneyoulove{
+    margin-right: 50px; font-size: medium; text-decoration: none; color: black;
+}
+#Button1{
+    border-radius: 0px; width: 70px; padding-top: 4px; padding-bottom: 4px;
+}
+#bgimage1{
+    background-image: url(new.jpeg); height: 600px; background-repeat: no-repeat;
+    background-size: cover;
+}
+#whitebg{
+  margin-left: 370px; margin-top: 300px; height: 200px; width: 650px; 
+opacity: 70%;}
+#imageoverbg{
+    position: relative;
+}
+
+#textoverimage{
+    position: absolute;
+    top: 380px; left: 500px; color: #a4237d;
+    z-index: 3;
+}
+
+#paraoverimage{
+    text-align: center;
+}
+#buttonoverimage{
+    margin-left: 150px; background: #005cb3; border-color: #005cb3; border-style: solid; color: white;
+}
+
+#whydailyheading{
+    text-align: center;
+}
+#paraunderheadingunderbgimage1{
+    text-align: center; 
+}
+#buttonsunderimage1{
+    margin-left: 550px; border-color: #a4237d;
+}
+#buttonsunderimage2{
+    margin-left: 600px; margin-top: 4px;
+}
+#bgimage2{
+   width: 700px; height: 250px; margin-left: 360px; 
+}
+.btnunderimages{
+    color: #a4237d; border-color: #a4237d; padding: 10px;
+}
+#bgimage2
+{
+    background-image: url(skybluebg.png); height: 310px;
+}
+#paraoverbgimage2{
+   text-align: center; color: #000000; 
+}
+#paraoverbgimage2inside{
+    margin-top: 50px;
+}
+#h3afterbgimage2{
+    color: #000000;
+}
+
+#btnunderbgimage2inside{
+    color: white; background-color: #a4237d; margin-left: 630px; margin-top: 40px; padding: 12px; margin-bottom: 40px;
+}
+#bgimage3{
+    background-image: url(whitebg.jpg); height: 500px; background-repeat: no-repeat; background-size: cover;
+}
+#bgimage3heading{
+    text-align: center; margin-top: 40px; 
+}
+.v1{
+    border-left: 6px solid #a4237d; 
+    height: 267px; margin-left: 150px;
+}
+#underbgimage3{ text-align: center;margin-top: 30px;
+
+}
+#bgoverbg31{
+    background-image: url(skybluebg.png); width: 620px; margin-top: 15px; padding: 10px;
+}
+#bgoverbg32{
+    background-image: url(skybluebg.png); width: 700px; margin-top: 15px; padding: 10px;
+}
+#bgoverbg33{
+    background-image: url(skybluebg.png); width: 780px; margin-top: 15px; padding: 10px;
+}
+#bgoverbg34{
+    background-image: url(skybluebg.png); width: 1050px; margin-top: 15px; padding: 10px;
+}
+#bgboxes{
+    margin-left: 250px; margin-bottom: 20px;
+}
+.bgimageinbgimage{
+    height: 60px; width: 60px; margin: 3px; display: inline-block; margin-left: 20px; 
+}
+.bgimageinbgimage{
+     background-image: url(skybluebg.png); padding: 60px;
+}
+#buttonsinddiv{
+    margin-left: 620px;
+}
+#video{
+    margin-left: 350px;
+}
+
+.buttonsind{
+    padding: 10px; border-radius: 0px; background-color: #005cb3;
+}
+#bgimage5{
+    background-image: url(skybluebg.png); background-size: cover;background-repeat: no-repeat; height: 580px;
+}
+#peopleimage{
+    margin-left: 540px;
+}
+
+#mainfooter{
+    background: #1c1c1c; color: white;height: 180px;
+}
+.buttons{
+    color: white; text-decoration: none; margin-right: 17px; z-index: 5; border-right-style:solid; padding-right: 25px; padding-left: 10px;
+}
+
+#footertop{
+    margin-left: 115px;}
+
+img{
+    margin-right: 10px;
+}
+#underline{
+    margin-left: 10px; margin-top: 0%;
+}
+#logos{
+    margin-left: 550px; 
+}
+#footerbottom{
+    background: #000000; color: #595959; text-align: center;
+ }
+
+
+
